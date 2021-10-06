@@ -1,0 +1,6 @@
+section {
+    margin-left: 50px;
+}
+section > h2{
+    margin-left: 100px;
+}

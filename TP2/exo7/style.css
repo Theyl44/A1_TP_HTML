@@ -1,0 +1,12 @@
+h1{
+    position : sticky;
+    top: 1cm;
+    background-color : white;
+}
+html{
+    cursor: pointer;
+}
+::selection{
+    background-color: #444;
+    color: white; 
+  }

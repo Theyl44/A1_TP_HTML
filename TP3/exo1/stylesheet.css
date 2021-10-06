@@ -1,0 +1,17 @@
+.grille{
+    margin: auto;
+    display: grid;
+    width: auto;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-column-gap: 6px;
+    grid-row-gap:6px;
+}
+body{
+    background-color: darkgrey;
+}
+img{
+    align-self:stretch;
+}
+img:nth-last-of-type(5n){
+    grid: col
+}

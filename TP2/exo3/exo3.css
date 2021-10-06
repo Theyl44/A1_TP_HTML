@@ -1,0 +1,23 @@
+h2:before{
+    content :"\2039";
+}
+h1::first-letter{
+    font-size : 1.4em;
+}
+h1{
+    text-transform: uppercase;
+}
+body{
+margin : auto;
+text-align: justify;
+width: 50%;
+}
+h2 + p::first-letter{
+    color : fuchsia;
+    margin-right: 2px;
+    font-size : 150%;
+    float : left    ;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

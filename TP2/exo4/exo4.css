@@ -1,0 +1,19 @@
+h1{
+    text-align: center; 
+}   
+section:nth-of-type(2n+1){
+    border: red solid;
+    float: left;
+    max-width: 50%;
+}
+section:nth-of-type(2n){
+    border: blue solid;
+    float : right;
+    max-width: 45%;
+}
+section:nth-of-type(2n+1) h2{
+    color: darkgreen;
+}
+section:nth-of-type(2n) h2{
+    color: blue;
+}

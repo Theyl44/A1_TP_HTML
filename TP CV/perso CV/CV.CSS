@@ -1,0 +1,48 @@
+article{
+	/*margin-right: 65%;*/
+	padding-top: 10px;
+	width: 50%;
+	margin: auto;
+	background-image:linear-gradient(white, pink);
+	text-align: center;
+	left: center;
+	font-family: "Lucida Sans Unicode, serif";
+}
+body{
+	background-image:linear-gradient(pink,white);
+}
+.Identité{
+	text-align: center;	
+}
+img{
+		width: 150px;
+		height: 150px;
+}
+img:hover{
+	width: 250px;
+	height: 250px;
+	-webkit-transform: rotate(-15deg);
+  	transform: rotate(-15deg);
+	transition-duration: 0.5s;
+}
+.Formation>ul{
+	text-align:	left;
+}
+.Hobbies{
+	text-align: left;
+}
+.table{
+	font-size: 1.5em;
+}
+	
+h1{
+	text-decoration:  red underline;
+	color: red;
+}
+.msg{
+	font-size: 0.5em;
+}
+.table1{
+	margin-left: 33%;
+}
+

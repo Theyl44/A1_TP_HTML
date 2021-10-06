@@ -1,0 +1,43 @@
+.un{
+    max-width: 80%;
+    background-color: teal;
+}
+.un>li{
+    background-color:aquamarine;
+    list-style: none;
+
+
+}
+.deux{
+    max-width: 80%;
+    background-color: teal;
+
+}
+.deux>li{
+    background-color:aquamarine;
+    list-style: none;
+}
+.trois{
+    max-width: 80%;
+    background-color: teal;
+}
+.trois>li{
+    background-color:aquamarine;
+    list-style: none;
+}
+.quatre{
+    max-width: 80%;
+    background-color: teal;
+}
+.quatre>li{
+    background-color:aquamarine;
+    list-style: none;
+}
+.cinq{
+    max-width: 80%;
+    background-color: teal;
+}
+.cinq>li{
+    background-color:aquamarine;
+    list-style: none;
+}
